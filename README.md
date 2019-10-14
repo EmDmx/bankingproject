@@ -28,7 +28,7 @@ Dockerfile is a file to create this project as a docker image and after you down
  
 All you need to do is run start.sh inside docker image. 
 
-To get docker image of the file, you can use the link below.
+To get docker image of the file, you can use this link: 
 https://hub.docker.com/r/dockiron/bankproject
 
 # Note: 
